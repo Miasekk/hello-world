@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+Hi I am Maciej 
+I am learing a little bit
